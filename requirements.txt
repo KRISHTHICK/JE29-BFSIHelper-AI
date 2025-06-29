@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+ollama
+langchain
+faiss-cpu
+langchain-community
+langchainhub
+HuggingFaceHUB
